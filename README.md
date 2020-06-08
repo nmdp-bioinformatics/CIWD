@@ -18,5 +18,6 @@ Example:
 **Note**: The manuscript table has listings for some alleles with and without the word "total".  In these cases, the values associated with the "total" indication are used.  For instance `B*54:01 total` is common (reported 12,022 times) but in the paper `B*54:01` is listed as merely well documented (reported 6 times) because it is almost reported as `54:01:01G` or `54:01:01` which, according to the hierarchical nature of WHO nomenclature are contained in `54:01`.
 
 
+**Note**: The “total” version in this dataset that the row represents the P group for that allele – including all alleles that roll up to that P group designation. For instance B*15:03 total (now represented as just ‘B*15:03’) includes B*15:03, B*15:03P, B*15:03:01G, B*15:03:01, B*15:03:01:01, B*15:03:01:02, B*15:103, B*15:220, B*15:03:02, B*15:03:03, B*15:03:04, and B*15:03:05.
 Martin Maiers
 mmaiers@nmdp.org
